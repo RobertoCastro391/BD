@@ -1,0 +1,10 @@
+C:\Users\rober\OneDrive\Bureau\Universidade\2ºAno\2ºSemestre\Bases de Dados\BD_p8g4\obj\Debug\BD_p8g4.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Bureau\Universidade\2ºAno\2ºSemestre\Bases de Dados\BD_p8g4\obj\Debug\BD_p8g4.Aula01.Form1.resources
+C:\Users\rober\OneDrive\Bureau\Universidade\2ºAno\2ºSemestre\Bases de Dados\BD_p8g4\obj\Debug\BD_p8g4.Properties.Resources.resources
+C:\Users\rober\OneDrive\Bureau\Universidade\2ºAno\2ºSemestre\Bases de Dados\BD_p8g4\obj\Debug\BD_p8g4.csproj.GenerateResource.cache
+C:\Users\rober\OneDrive\Bureau\Universidade\2ºAno\2ºSemestre\Bases de Dados\BD_p8g4\obj\Debug\BD_p8g4.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Bureau\Universidade\2ºAno\2ºSemestre\Bases de Dados\BD_p8g4\bin\Debug\BD_p8g4.exe.config
+C:\Users\rober\OneDrive\Bureau\Universidade\2ºAno\2ºSemestre\Bases de Dados\BD_p8g4\bin\Debug\BD_p8g4.exe
+C:\Users\rober\OneDrive\Bureau\Universidade\2ºAno\2ºSemestre\Bases de Dados\BD_p8g4\bin\Debug\BD_p8g4.pdb
+C:\Users\rober\OneDrive\Bureau\Universidade\2ºAno\2ºSemestre\Bases de Dados\BD_p8g4\obj\Debug\BD_p8g4.exe
+C:\Users\rober\OneDrive\Bureau\Universidade\2ºAno\2ºSemestre\Bases de Dados\BD_p8g4\obj\Debug\BD_p8g4.pdb

@@ -1,10 +1,31 @@
-C:\Users\rober\OneDrive\Bureau\Universidade\2ºAno\2ºSemestre\Bases de Dados\BD_p8g4\obj\Debug\BD_p8g4.csproj.AssemblyReference.cache
-C:\Users\rober\OneDrive\Bureau\Universidade\2ºAno\2ºSemestre\Bases de Dados\BD_p8g4\obj\Debug\BD_p8g4.Aula01.Form1.resources
-C:\Users\rober\OneDrive\Bureau\Universidade\2ºAno\2ºSemestre\Bases de Dados\BD_p8g4\obj\Debug\BD_p8g4.Properties.Resources.resources
-C:\Users\rober\OneDrive\Bureau\Universidade\2ºAno\2ºSemestre\Bases de Dados\BD_p8g4\obj\Debug\BD_p8g4.csproj.GenerateResource.cache
-C:\Users\rober\OneDrive\Bureau\Universidade\2ºAno\2ºSemestre\Bases de Dados\BD_p8g4\obj\Debug\BD_p8g4.csproj.CoreCompileInputs.cache
-C:\Users\rober\OneDrive\Bureau\Universidade\2ºAno\2ºSemestre\Bases de Dados\BD_p8g4\bin\Debug\BD_p8g4.exe.config
-C:\Users\rober\OneDrive\Bureau\Universidade\2ºAno\2ºSemestre\Bases de Dados\BD_p8g4\bin\Debug\BD_p8g4.exe
-C:\Users\rober\OneDrive\Bureau\Universidade\2ºAno\2ºSemestre\Bases de Dados\BD_p8g4\bin\Debug\BD_p8g4.pdb
-C:\Users\rober\OneDrive\Bureau\Universidade\2ºAno\2ºSemestre\Bases de Dados\BD_p8g4\obj\Debug\BD_p8g4.exe
-C:\Users\rober\OneDrive\Bureau\Universidade\2ºAno\2ºSemestre\Bases de Dados\BD_p8g4\obj\Debug\BD_p8g4.pdb
+C:/Users/rober/OneDrive/Bureau/Universidade/2ºAno/2ºSemestre/Bases de Dados/BD_p8g4/obj/Debug/BD_p8g4.csproj.AssemblyReference.cache
+C:/Users/rober/OneDrive/Bureau/Universidade/2ºAno/2ºSemestre/Bases de Dados/BD_p8g4/obj/Debug/BD_p8g4.Aula01.Form1.resources
+C:/Users/rober/OneDrive/Bureau/Universidade/2ºAno/2ºSemestre/Bases de Dados/BD_p8g4/obj/Debug/BD_p8g4.Properties.Resources.resources
+C:/Users/rober/OneDrive/Bureau/Universidade/2ºAno/2ºSemestre/Bases de Dados/BD_p8g4/obj/Debug/BD_p8g4.csproj.GenerateResource.cache
+C:/Users/rober/OneDrive/Bureau/Universidade/2ºAno/2ºSemestre/Bases de Dados/BD_p8g4/obj/Debug/BD_p8g4.csproj.CoreCompileInputs.cache
+C:/Users/rober/OneDrive/Bureau/Universidade/2ºAno/2ºSemestre/Bases de Dados/BD_p8g4/bin/Debug/BD_p8g4.exe.config
+C:/Users/rober/OneDrive/Bureau/Universidade/2ºAno/2ºSemestre/Bases de Dados/BD_p8g4/bin/Debug/BD_p8g4.exe
+C:/Users/rober/OneDrive/Bureau/Universidade/2ºAno/2ºSemestre/Bases de Dados/BD_p8g4/bin/Debug/BD_p8g4.pdb
+C:/Users/rober/OneDrive/Bureau/Universidade/2ºAno/2ºSemestre/Bases de Dados/BD_p8g4/obj/Debug/BD_p8g4.exe
+C:/Users/rober/OneDrive/Bureau/Universidade/2ºAno/2ºSemestre/Bases de Dados/BD_p8g4/obj/Debug/BD_p8g4.pdb
+/Users/robertocastro/Desktop/Universidade/2ºAno/2ºSemestre/BD/BD_p8g4/bin/Debug/BD_p8g4.exe.config
+/Users/robertocastro/Desktop/Universidade/2ºAno/2ºSemestre/BD/BD_p8g4/bin/Debug/BD_p8g4.exe
+/Users/robertocastro/Desktop/Universidade/2ºAno/2ºSemestre/BD/BD_p8g4/bin/Debug/BD_p8g4.pdb
+/Users/robertocastro/Desktop/Universidade/2ºAno/2ºSemestre/BD/BD_p8g4/obj/Debug/BD_p8g4.csproj.AssemblyReference.cache
+/Users/robertocastro/Desktop/Universidade/2ºAno/2ºSemestre/BD/BD_p8g4/obj/Debug/BD_p8g4.Aula01.Form1.resources
+/Users/robertocastro/Desktop/Universidade/2ºAno/2ºSemestre/BD/BD_p8g4/obj/Debug/BD_p8g4.Properties.Resources.resources
+/Users/robertocastro/Desktop/Universidade/2ºAno/2ºSemestre/BD/BD_p8g4/obj/Debug/BD_p8g4.csproj.GenerateResource.cache
+/Users/robertocastro/Desktop/Universidade/2ºAno/2ºSemestre/BD/BD_p8g4/obj/Debug/BD_p8g4.csproj.CoreCompileInputs.cache
+/Users/robertocastro/Desktop/Universidade/2ºAno/2ºSemestre/BD/BD_p8g4/obj/Debug/BD_p8g4.exe
+/Users/robertocastro/Desktop/Universidade/2ºAno/2ºSemestre/BD/BD_p8g4/obj/Debug/BD_p8g4.pdb
+Z:\Desktop\Universidade\2ºAno\2ºSemestre\BD\BD_p8g4\bin\Debug\BD_p8g4.exe.config
+Z:\Desktop\Universidade\2ºAno\2ºSemestre\BD\BD_p8g4\bin\Debug\BD_p8g4.exe
+Z:\Desktop\Universidade\2ºAno\2ºSemestre\BD\BD_p8g4\bin\Debug\BD_p8g4.pdb
+Z:\Desktop\Universidade\2ºAno\2ºSemestre\BD\BD_p8g4\obj\Debug\BD_p8g4.csproj.AssemblyReference.cache
+Z:\Desktop\Universidade\2ºAno\2ºSemestre\BD\BD_p8g4\obj\Debug\BD_p8g4.csproj.SuggestedBindingRedirects.cache
+Z:\Desktop\Universidade\2ºAno\2ºSemestre\BD\BD_p8g4\obj\Debug\BD_p8g4.Aula01.Form1.resources
+Z:\Desktop\Universidade\2ºAno\2ºSemestre\BD\BD_p8g4\obj\Debug\BD_p8g4.Properties.Resources.resources
+Z:\Desktop\Universidade\2ºAno\2ºSemestre\BD\BD_p8g4\obj\Debug\BD_p8g4.csproj.GenerateResource.cache
+Z:\Desktop\Universidade\2ºAno\2ºSemestre\BD\BD_p8g4\obj\Debug\BD_p8g4.csproj.CoreCompileInputs.cache
+Z:\Desktop\Universidade\2ºAno\2ºSemestre\BD\BD_p8g4\obj\Debug\BD_p8g4.exe
+Z:\Desktop\Universidade\2ºAno\2ºSemestre\BD\BD_p8g4\obj\Debug\BD_p8g4.pdb

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="CategoriasVeiculos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ClientesInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Combustiveis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CoresVeiculos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VeiculosInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FornecedoresInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FuncaoFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FuncionariosInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MarcasVeiculos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Opçoes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Registo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegistoCompra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegistoRetoma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegistoVenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StandsInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

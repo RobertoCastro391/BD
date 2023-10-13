@@ -7,7 +7,7 @@ CREATE TABLE RentACar_Veiculo(
 	[Marca] [varchar] (256) NOT NULL,
 	[Ano] [int] NOT NULL,
 	[TipoVeiculo_Codigo] [int] REFERENCES RentACar_TipoVeiculo ([Codigo]) 
-) 
+)
 GO
 
 CREATE TABLE RentACar_Similaridade(

@@ -1,0 +1,10 @@
+/Users/robertocastro/Desktop/Universidade/2ºAno/2ºSemestre/BD/BD_p8g4/bin/Release/BD_p8g4.exe.config
+/Users/robertocastro/Desktop/Universidade/2ºAno/2ºSemestre/BD/BD_p8g4/bin/Release/BD_p8g4.exe
+/Users/robertocastro/Desktop/Universidade/2ºAno/2ºSemestre/BD/BD_p8g4/bin/Release/BD_p8g4.pdb
+/Users/robertocastro/Desktop/Universidade/2ºAno/2ºSemestre/BD/BD_p8g4/obj/Release/BD_p8g4.csproj.AssemblyReference.cache
+/Users/robertocastro/Desktop/Universidade/2ºAno/2ºSemestre/BD/BD_p8g4/obj/Release/BD_p8g4.Aula01.Form1.resources
+/Users/robertocastro/Desktop/Universidade/2ºAno/2ºSemestre/BD/BD_p8g4/obj/Release/BD_p8g4.Properties.Resources.resources
+/Users/robertocastro/Desktop/Universidade/2ºAno/2ºSemestre/BD/BD_p8g4/obj/Release/BD_p8g4.csproj.GenerateResource.cache
+/Users/robertocastro/Desktop/Universidade/2ºAno/2ºSemestre/BD/BD_p8g4/obj/Release/BD_p8g4.csproj.CoreCompileInputs.cache
+/Users/robertocastro/Desktop/Universidade/2ºAno/2ºSemestre/BD/BD_p8g4/obj/Release/BD_p8g4.exe
+/Users/robertocastro/Desktop/Universidade/2ºAno/2ºSemestre/BD/BD_p8g4/obj/Release/BD_p8g4.pdb

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -82,6 +82,12 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="Aula07\aula7_submit.md" />
+    <None Include="Aula07\Contacts_CSharp.zip" />
+    <None Include="Aula07\CSharp_NET_SQL.pdf" />
+    <None Include="Aula07\instnwnd.sql" />
+    <None Include="Aula07\Northwind_Setup_Instructions.txt" />
+    <None Include="Aula07\NorthWind_SQLServer_2014.zip" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -107,6 +113,10 @@
     <Content Include="Aula04\ex_4_1_5.sql" />
     <Content Include="Aula04\ex_4_1_6.png" />
     <Content Include="Aula04\ex_4_1_6.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Aula06\" />
+    <Folder Include="Aula07\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
